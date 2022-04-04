@@ -1,0 +1,1000 @@
+{
+  "Aimbot": [
+    {
+      "Aimlock": true,
+      "Between shots": false,
+      "Bone": 2,
+      "Enabled": true,
+      "Fov": 255.0,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Max aim inaccuracy": 4e-05,
+      "Max shot inaccuracy": 0.0,
+      "Scoped only": false,
+      "Visible only": false
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Aimlock": true,
+      "Enabled": true,
+      "Fov": 255.0,
+      "Scoped only": false,
+      "Visible only": false
+    },
+    {
+      "Aimlock": true,
+      "Auto scope": true,
+      "Auto shot": true,
+      "Bone": 2,
+      "Enabled": true,
+      "Fov": 255.0,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Visible only": false
+    },
+    {},
+    {
+      "Aimlock": true,
+      "Between shots": false,
+      "Bone": 2,
+      "Enabled": true,
+      "Fov": 255.0,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Max aim inaccuracy": 0.0607,
+      "Max shot inaccuracy": 0.16814,
+      "Scoped only": false,
+      "Visible only": false
+    },
+    {}
+  ],
+  "Aimbot Key mode": 0,
+  "Aimbot On key": false,
+  "Backtrack": {
+    "Enabled": true
+  },
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Backtrack": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {
+          "Cover": true,
+          "Health based": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Planting": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ESP": {
+    "Enemies": {
+      "Occluded": {
+        "Box": {
+          "Enabled": true
+        },
+        "Enabled": true,
+        "Flash Duration": {
+          "Enabled": true
+        },
+        "Name": {
+          "Enabled": true
+        },
+        "Weapon": {
+          "Enabled": true
+        }
+      },
+      "Visible": {
+        "Box": {
+          "Alpha": 1.0,
+          "Color": "#5e5e5e",
+          "Enabled": true
+        },
+        "Enabled": true,
+        "Flash Duration": {
+          "Alpha": 1.0,
+          "Color": "#656565",
+          "Enabled": true
+        },
+        "Font": {
+          "Name": "Default"
+        },
+        "Name": {
+          "Alpha": 1.0,
+          "Color": "#7d7d7d",
+          "Enabled": true
+        }
+      }
+    }
+  },
+  "Glow": {
+    "Players": {
+      "Enemies": {
+        "All": {
+          "Health based": true
+        }
+      }
+    }
+  },
+  "Inventory Changer": {
+    "Equipment": [
+      {
+        "CT": 3,
+        "Slot": 0,
+        "TT": 3
+      },
+      {
+        "CT": 30,
+        "Slot": 2
+      },
+      {
+        "CT": 8,
+        "Slot": 3,
+        "TT": 8
+      },
+      {
+        "CT": 23,
+        "Slot": 4,
+        "TT": 23
+      },
+      {
+        "CT": 10,
+        "Slot": 5
+      },
+      {
+        "CT": 6,
+        "Slot": 6,
+        "TT": 6
+      },
+      {
+        "CT": 20,
+        "Slot": 8
+      },
+      {
+        "CT": 18,
+        "Slot": 9
+      },
+      {
+        "CT": 24,
+        "Slot": 11
+      },
+      {
+        "CT": 25,
+        "Slot": 12
+      },
+      {
+        "CT": 9,
+        "Slot": 14
+      },
+      {
+        "CT": 15,
+        "Slot": 15
+      },
+      {
+        "CT": 4,
+        "Slot": 17
+      },
+      {
+        "CT": 1,
+        "Slot": 18,
+        "TT": 1
+      },
+      {
+        "CT": 27,
+        "Slot": 19
+      },
+      {
+        "CT": 22,
+        "Slot": 20,
+        "TT": 22
+      },
+      {
+        "CT": 29,
+        "Slot": 21,
+        "TT": 29
+      },
+      {
+        "CT": 17,
+        "Slot": 22
+      },
+      {
+        "CT": 14,
+        "Slot": 23
+      },
+      {
+        "CT": 21,
+        "Slot": 24
+      },
+      {
+        "CT": 7,
+        "Slot": 41,
+        "TT": 7
+      }
+    ],
+    "Items": [
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 1035,
+        "Paint Kit Name": "Slate",
+        "Seed": 346,
+        "Weapon ID": 7,
+        "Wear": 0.015822895
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 975,
+        "Paint Kit Name": "Exoskeleton",
+        "Seed": 938,
+        "Weapon ID": 9,
+        "Wear": 0.022343218
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 279,
+        "Paint Kit Name": "Asiimov",
+        "Seed": 999,
+        "Weapon ID": 9,
+        "Wear": 0.21331635
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 397,
+        "Weapon ID": 507,
+        "Wear": 0.0024649005
+      },
+      {
+        "Item Name": "AUG",
+        "Paint Kit": 845,
+        "Paint Kit Name": "Momentum",
+        "Seed": 213,
+        "Weapon ID": 8,
+        "Wear": 0.08414966
+      },
+      {
+        "Item Name": "CZ75-Auto",
+        "Paint Kit": 435,
+        "Paint Kit Name": "Pole Position",
+        "Seed": 489,
+        "Weapon ID": 63,
+        "Wear": 0.025502041
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 1050,
+        "Paint Kit Name": "Trigger Discipline",
+        "Seed": 833,
+        "Weapon ID": 1,
+        "Wear": 0.0418548
+      },
+      {
+        "Item Name": "Driver Gloves",
+        "Paint Kit": 10072,
+        "Paint Kit Name": "Black Tie",
+        "Seed": 898,
+        "Weapon ID": 5031,
+        "Wear": 0.11167995
+      },
+      {
+        "Item Name": "Dual Berettas",
+        "Paint Kit": 544,
+        "Paint Kit Name": "Ventilators",
+        "Seed": 567,
+        "Weapon ID": 2,
+        "Wear": 0.03059292
+      },
+      {
+        "Item Name": "FAMAS",
+        "Paint Kit": 154,
+        "Paint Kit Name": "Afterimage",
+        "Seed": 659,
+        "Weapon ID": 10,
+        "Wear": 0.026517646
+      },
+      {
+        "Item Name": "Five-SeveN",
+        "Paint Kit": 352,
+        "Paint Kit Name": "Fowl Play",
+        "Seed": 145,
+        "Weapon ID": 3,
+        "Wear": 0.026075635
+      },
+      {
+        "Item Name": "G3SG1",
+        "Paint Kit": 493,
+        "Paint Kit Name": "Flux",
+        "Seed": 342,
+        "Weapon ID": 11,
+        "Wear": 0.020448877
+      },
+      {
+        "Item Name": "Galil AR",
+        "Paint Kit": 661,
+        "Paint Kit Name": "Sugar Rush",
+        "Seed": 28,
+        "Weapon ID": 13,
+        "Wear": 0.026903728
+      },
+      {
+        "Item Name": "Glock-18",
+        "Paint Kit": 1119,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 855,
+        "Weapon ID": 4,
+        "Wear": 0.0197567
+      },
+      {
+        "Item Name": "M249",
+        "Paint Kit": 1042,
+        "Paint Kit Name": "O.S.I.P.R.",
+        "Seed": 775,
+        "Weapon ID": 14,
+        "Wear": 0.0007617621
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 309,
+        "Paint Kit Name": "Howl",
+        "Seed": 891,
+        "Weapon ID": 16,
+        "Wear": 0.008056121
+      },
+      {
+        "Item Name": "MAC-10",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 619,
+        "Weapon ID": 17,
+        "Wear": 0.004903476
+      },
+      {
+        "Item Name": "MAG-7",
+        "Paint Kit": 100,
+        "Paint Kit Name": "Storm",
+        "Seed": 389,
+        "Weapon ID": 27,
+        "Wear": 0.07027176
+      },
+      {
+        "Item Name": "MP5-SD",
+        "Paint Kit": 810,
+        "Paint Kit Name": "Phosphor",
+        "Seed": 253,
+        "Weapon ID": 23,
+        "Wear": 0.030559838
+      },
+      {
+        "Item Name": "MP9",
+        "Paint Kit": 609,
+        "Paint Kit Name": "Airlock",
+        "Seed": 128,
+        "Weapon ID": 34,
+        "Wear": 0.024843048
+      },
+      {
+        "Item Name": "MP9",
+        "Paint Kit": 734,
+        "Paint Kit Name": "Wild Lily",
+        "Seed": 235,
+        "Weapon ID": 34,
+        "Wear": 0.021582888
+      },
+      {
+        "Item Name": "Negev",
+        "Paint Kit": 514,
+        "Paint Kit Name": "Power Loader",
+        "Seed": 446,
+        "Weapon ID": 28,
+        "Wear": 0.03013657
+      },
+      {
+        "Item Name": "Nova",
+        "Paint Kit": 62,
+        "Paint Kit Name": "Bloomstick",
+        "Seed": 384,
+        "Weapon ID": 35,
+        "Wear": 0.09262653
+      },
+      {
+        "Item Name": "P250",
+        "Paint Kit": 258,
+        "Paint Kit Name": "Mehndi",
+        "Seed": 520,
+        "Weapon ID": 36,
+        "Wear": 0.010243747
+      },
+      {
+        "Item Name": "P90",
+        "Paint Kit": 156,
+        "Paint Kit Name": "Death by Kitty",
+        "Seed": 64,
+        "Weapon ID": 19,
+        "Wear": 0.086984806
+      },
+      {
+        "Item Name": "PP-Bizon",
+        "Paint Kit": 224,
+        "Paint Kit Name": "Water Sigil",
+        "Seed": 776,
+        "Weapon ID": 26,
+        "Wear": 0.01555685
+      },
+      {
+        "Item Name": "Sawed-Off",
+        "Paint Kit": 720,
+        "Paint Kit Name": "Devourer",
+        "Seed": 475,
+        "Weapon ID": 29,
+        "Wear": 0.021613851
+      },
+      {
+        "Item Name": "SCAR-20",
+        "Paint Kit": 196,
+        "Paint Kit Name": "Emerald",
+        "Seed": 746,
+        "Weapon ID": 38,
+        "Wear": 0.005101798
+      },
+      {
+        "Item Name": "X-Ray P250 Package",
+        "Weapon ID": 4668
+      },
+      {
+        "Item Name": "XM1014",
+        "Paint Kit": 557,
+        "Paint Kit Name": "Black Tie",
+        "Seed": 869,
+        "Weapon ID": 25,
+        "Wear": 0.003393643
+      },
+      {
+        "Item Name": "USP-S",
+        "Paint Kit": 1040,
+        "Paint Kit Name": "The Traitor",
+        "Seed": 883,
+        "Weapon ID": 61,
+        "Wear": 0.037936315
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 1035,
+        "Paint Kit Name": "Slate",
+        "Seed": 793,
+        "Weapon ID": 7,
+        "Wear": 0.059244107
+      }
+    ],
+    "Version": 3
+  },
+  "Misc": {
+    "Animated clan tag": true,
+    "Auto accept": true,
+    "Auto strafe": true,
+    "Ban text": "vallias has been permanently banned from official CS:GO servers.",
+    "Bomb timer": {
+      "Color": [
+        1e-06,
+        9.999956e-07,
+        9.9999e-07
+      ],
+      "Enabled": true,
+      "Rainbow": true
+    },
+    "Clan tag": "gamhsetous cfg",
+    "Custom clan tag": true,
+    "Disable model occlusion": true,
+    "Grenade predict": true,
+    "Kill message": true,
+    "Kill message string": "gamhsetours cheat",
+    "Preserve Killfeed": {
+      "Enabled": true
+    },
+    "Reveal money": true,
+    "Reveal ranks": true
+  },
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Style": {
+    "Colors": {
+      "Border": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "BorderShadow": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Button": [
+        0.1640212,
+        0.16401955,
+        0.16401955,
+        0.4
+      ],
+      "ButtonActive": [
+        0.28571433,
+        0.28571147,
+        0.28571147,
+        1.0
+      ],
+      "ButtonHovered": [
+        0.047619104,
+        0.047618628,
+        0.047618628,
+        1.0
+      ],
+      "CheckMark": [
+        0.19047624,
+        0.19047433,
+        0.19047433,
+        1.0
+      ],
+      "ChildBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "DragDropTarget": [
+        0.19576722,
+        0.19576526,
+        0.19576526,
+        0.9
+      ],
+      "FrameBg": [
+        0.10582012,
+        0.10581906,
+        0.10581906,
+        0.54
+      ],
+      "FrameBgActive": [
+        0.04232806,
+        0.042327635,
+        0.042327635,
+        0.67
+      ],
+      "FrameBgHovered": [
+        1e-06,
+        7.619048e-07,
+        7.619048e-07,
+        0.4
+      ],
+      "Header": [
+        0.10052813,
+        0.10052861,
+        0.100529134,
+        0.31
+      ],
+      "HeaderActive": [
+        0.28042328,
+        0.28042048,
+        0.28042048,
+        1.0
+      ],
+      "HeaderHovered": [
+        0.15873021,
+        0.15872861,
+        0.15872861,
+        0.8
+      ],
+      "MenuBarBg": [
+        0.14,
+        0.14,
+        0.14,
+        1.0
+      ],
+      "ModalWindowDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.35
+      ],
+      "NavHighlight": [
+        0.35978475,
+        0.35978642,
+        0.35978836,
+        1.0
+      ],
+      "NavWindowingDimBg": [
+        0.8,
+        0.799992,
+        0.799992,
+        0.2
+      ],
+      "NavWindowingHighlight": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+      ],
+      "PlotHistogram": [
+        0.14814818,
+        0.14814669,
+        0.14814669,
+        1.0
+      ],
+      "PlotHistogramHovered": [
+        0.25925928,
+        0.2592567,
+        0.2592567,
+        1.0
+      ],
+      "PlotLines": [
+        0.61,
+        0.61,
+        0.61,
+        1.0
+      ],
+      "PlotLinesHovered": [
+        1.0,
+        0.9999914,
+        0.99999,
+        1.0
+      ],
+      "PopupBg": [
+        0.08,
+        0.08,
+        0.08,
+        0.94
+      ],
+      "ResizeGrip": [
+        0.14814818,
+        0.14814669,
+        0.14814669,
+        0.25
+      ],
+      "ResizeGripActive": [
+        1.0,
+        0.0,
+        6.0081482e-05,
+        0.03174603
+      ],
+      "ResizeGripHovered": [
+        0.17460322,
+        0.17460148,
+        0.17460148,
+        0.67
+      ],
+      "ScrollbarBg": [
+        0.02,
+        0.02,
+        0.02,
+        0.53
+      ],
+      "ScrollbarGrab": [
+        0.31,
+        0.31,
+        0.31,
+        1.0
+      ],
+      "ScrollbarGrabActive": [
+        0.13756615,
+        0.13756478,
+        0.13756478,
+        1.0
+      ],
+      "ScrollbarGrabHovered": [
+        0.41,
+        0.41,
+        0.41,
+        1.0
+      ],
+      "Separator": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "SeparatorActive": [
+        0.15873021,
+        0.15872861,
+        0.15872861,
+        1.0
+      ],
+      "SeparatorHovered": [
+        0.09523815,
+        0.095237195,
+        0.095237195,
+        0.78
+      ],
+      "SliderGrab": [
+        0.2698413,
+        0.2698386,
+        0.2698386,
+        1.0
+      ],
+      "SliderGrabActive": [
+        0.2910053,
+        0.2910024,
+        0.2910024,
+        1.0
+      ],
+      "Tab": [
+        0.23280424,
+        0.23280191,
+        0.23280191,
+        0.862
+      ],
+      "TabActive": [
+        0.24338627,
+        0.24338382,
+        0.24338382,
+        1.0
+      ],
+      "TabHovered": [
+        0.2910053,
+        0.2910024,
+        0.2910024,
+        0.8
+      ],
+      "TabUnfocused": [
+        0.111110054,
+        0.11111054,
+        0.111111164,
+        0.9724
+      ],
+      "TabUnfocusedActive": [
+        0.24867725,
+        0.24867477,
+        0.24867477,
+        1.0
+      ],
+      "TableBorderLight": [
+        0.21163812,
+        0.21163812,
+        0.21164024,
+        1.0
+      ],
+      "TableBorderStrong": [
+        1.0,
+        0.99999,
+        0.99999,
+        1.0
+      ],
+      "TableHeaderBg": [
+        0.19,
+        0.19,
+        0.2,
+        1.0
+      ],
+      "TableRowBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TableRowBgAlt": [
+        1.0,
+        1.0,
+        1.0,
+        0.06
+      ],
+      "Text": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "TextDisabled": [
+        0.5,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "TextSelectedBg": [
+        1.0,
+        0.99999,
+        0.99999,
+        0.35
+      ],
+      "TitleBg": [
+        0.04,
+        0.04,
+        0.04,
+        1.0
+      ],
+      "TitleBgActive": [
+        0.10582012,
+        0.10581906,
+        0.10581906,
+        1.0
+      ],
+      "TitleBgCollapsed": [
+        0.0,
+        0.0,
+        0.0,
+        0.51
+      ],
+      "WindowBg": [
+        0.06,
+        0.06,
+        0.06,
+        0.94
+      ]
+    },
+    "Menu colors": 3,
+    "Menu style": 1
+  },
+  "Triggerbot": [
+    {
+      "Enabled": true
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Enabled": true,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Killshot": true,
+      "Scoped only": false,
+      "Shot delay": 10
+    },
+    {
+      "Enabled": true,
+      "Hitgroup": 1,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Scoped only": false,
+      "Shot delay": 27
+    },
+    {}
+  ],
+  "Visuals": {
+    "Disable post-processing": true
+  }
+}
